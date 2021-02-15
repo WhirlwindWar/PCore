@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PCore">
+    <output-path>$USER_HOME$/Desktop/Spigot 1.10.2 Server/plugins</output-path>
+    <root id="archive" name="PCore.jar">
+      <element id="module-output" name="PCore" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,20 @@
+main: apaulled.core.Main
+name: PCore
+version: 1.0
+author: apaulled
+load: POSTWORLD
+
+commands:
+  Mortgage:
+  Sethome:
+  Home:
+  Fillinv:
+  Kill:
+  Freeze:
+  Unfreeze:
+  Astmaterial:
+  Eco:
+  Bal:
+  Party:
+  Friends:
+  Friend:
